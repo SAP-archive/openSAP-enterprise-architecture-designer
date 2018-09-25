@@ -20,7 +20,7 @@ The files from the single sections can be imported into EA-Desiger using the imp
 older version of EA-Designer do have a errorous generation of assocciation. Make sure relation columns are in the form
  - right version "targettable_1" "targettable"   the generator of older version do the 
  - wrong version "targettable"   "targettable"   need to be manual adhjusted
-*it is not allowed to have the same name for column and join*
+it is not allowed to have the same name for column and join
 
 ### License
 Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
