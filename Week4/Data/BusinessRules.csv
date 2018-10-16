@@ -1,0 +1,4 @@
+Name;Description
+Customer;A Customer is a kind of BuisnessPartner
+Producer;A Producer is a kind of BusinessPartner
+Company;A Company is a kind of BusinessPartner
