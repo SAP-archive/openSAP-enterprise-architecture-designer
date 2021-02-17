@@ -23,4 +23,5 @@ older version of SAP EA Designer do had a faulty generation of associations. Mak
 it is not allowed to have the same name for column and join
 
 ### License
-Copyright (c) 2018 SAP SE or an SAP affiliate company. All rights reserved.
+Copyright (c) 2021 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the LICENSE file.
+
